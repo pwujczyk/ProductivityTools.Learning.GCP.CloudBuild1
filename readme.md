@@ -1,7 +1,7 @@
 <!--Category:react,firebase--> 
  <p align="right">
-    <a href="http://productivitytools.tech/productivitytools-createsqlserverdatabase/"><img src="Images/Header/ProductivityTools_green_40px_2.png" /><a> 
-    <a href="https://github.com/pwujczyk/ProductivityTools.Learning.ReactWithFirebaseAuthWithDb"><img src="Images/Header/Github_border_40px.png" /></a>
+    <a href="http://productivitytools.tech/"><img src="Images/Header/ProductivityTools_green_40px_2.png" /><a> 
+    <a href="https://github.com/pwujczyk/ProductivityTools.Learning.GCP.CloudBuild1"><img src="Images/Header/Github_border_40px.png" /></a>
 </p>
 <p align="center">
     <a href="http://http://productivitytools.tech/">
@@ -39,7 +39,7 @@ gcloud artifacts repositories list
 gcloud builds submit --region=us-west2 --tag us-west2-docker.pkg.dev/cloudbuildlearning1/quickstart-docker-repo/quickstart-image:tag1
 ```
 
-![quickstartimageInartificatregistry](images/quickstartimageInartificatregistry.png)
+![quickstartimageInartificatregistry](Images/quickstartimageInartificatregistry.png)
 
 ## Build an image using a build config file
 
